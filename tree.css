@@ -1,0 +1,4 @@
+body {font-family: Helvetica, Arial, sans seriff}
+h1, h2 {font-family: Garamond, seriff; text-align:center;}
+h1 {margin-bottom: 0px; }
+h2 {color: #bbb;font-size: 20px; font-weight: normal; margin-top: 0px; padding-bottom:10px; border-bottom: 1px solid #ddd;}
